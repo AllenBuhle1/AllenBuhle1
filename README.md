@@ -26,7 +26,7 @@
   💬 A multithreaded JavaFX client-server app that mimics a Facebook-style group chat.
 
 - [**SPACE_TOURISM_WEBSITE**](https://github.com/AllenBuhle1/SPACE_TOURISM_WEBSITE)  
-  🌌 A ReactJS project built for a Frontend Mentor challenge with modern, responsive UI.
+  🌌 A ReactJS project built for a Frontend Mentor challenge with modern, responsive UI. The live site is deployed on Netlify.
 
 - [**ELECTRONICS_BOOM_GATE_WITH_ULTRASOUND_SENSOR**](https://github.com/AllenBuhle1/ELECTRONICS_BOOM_GATE_WITH_ULTRASOUND_SENSOR)  
   🚗 A servo motor project that mimics a mall gate, automatically opening when a car approaches.
