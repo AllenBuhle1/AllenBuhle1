@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="myGithub.jpg" alt="Buhle Allen Banner" width="100%"/>
-</p>
 <h1 align="center">🌙 Hi, I'm Buhle Allen 👋</h1>
 
 <p align="center">
